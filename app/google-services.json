@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "249859873781",
+    "project_id": "bdproyectou3",
+    "storage_bucket": "bdproyectou3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249859873781:android:e1dc068945ddc119441ebc",
+        "android_client_info": {
+          "package_name": "com.example.proyectou3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVjp8oHxcmywhwsBCHEE6JaI5f8FHm7Hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
